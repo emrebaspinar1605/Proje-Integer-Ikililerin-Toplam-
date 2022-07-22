@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Integer-Ikililerin-Toplamı\bin\Debug\net6.0\Proje-Integer-Ikililerin-Toplamı.exe
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Integer-Ikililerin-Toplamı\bin\Debug\net6.0\Proje-Integer-Ikililerin-Toplamı.deps.json
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Integer-Ikililerin-Toplamı\bin\Debug\net6.0\Proje-Integer-Ikililerin-Toplamı.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Integer-Ikililerin-Toplamı\bin\Debug\net6.0\Proje-Integer-Ikililerin-Toplamı.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Integer-Ikililerin-Toplamı\bin\Debug\net6.0\Proje-Integer-Ikililerin-Toplamı.pdb
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Integer-Ikililerin-Toplamı\obj\Debug\net6.0\Proje-Integer-Ikililerin-Toplamı.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Integer-Ikililerin-Toplamı\obj\Debug\net6.0\Proje-Integer-Ikililerin-Toplamı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Integer-Ikililerin-Toplamı\obj\Debug\net6.0\Proje-Integer-Ikililerin-Toplamı.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Integer-Ikililerin-Toplamı\obj\Debug\net6.0\Proje-Integer-Ikililerin-Toplamı.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Integer-Ikililerin-Toplamı\obj\Debug\net6.0\Proje-Integer-Ikililerin-Toplamı.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Integer-Ikililerin-Toplamı\obj\Debug\net6.0\Proje-Integer-Ikililerin-Toplamı.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Integer-Ikililerin-Toplamı\obj\Debug\net6.0\refint\Proje-Integer-Ikililerin-Toplamı.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Integer-Ikililerin-Toplamı\obj\Debug\net6.0\Proje-Integer-Ikililerin-Toplamı.pdb
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Integer-Ikililerin-Toplamı\obj\Debug\net6.0\Proje-Integer-Ikililerin-Toplamı.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Integer-Ikililerin-Toplamı\obj\Debug\net6.0\ref\Proje-Integer-Ikililerin-Toplamı.dll
